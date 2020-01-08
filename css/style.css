@@ -281,12 +281,12 @@ h2.pagetitle {
 .navbar .brand {
 	margin-left:0;
 	padding: 0;
-	margin-top: 1.05em;
+	margin-top: 0.85em;
 }
 .navbar .brand a {
 	padding: 0;
 	color: #fff;
-	font-size: 1.75em;
+	font-size: 1.45em;
 	margin-left: 0;
 	font-weight: 400;
 	text-transform:capitalize;
